@@ -70,4 +70,4 @@
 ### ✅ En résumé :
 Ce script permet de rendre le **défilement fluide vers une section de la page** fonctionnel **même sur les anciens navigateurs** qui ne supportent pas bien la solution CSS seule. Il **remplace le comportement par défaut** du lien pour faire un **scroll animé vers la cible**.
 
-Souhaites-tu que je te montre une version moderne en React ou TypeScript de ce comportement ?
+
